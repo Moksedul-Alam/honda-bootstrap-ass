@@ -1,0 +1,73 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* header start */
+.header {
+    background-color: #264653;
+}
+.header-describe button{
+      width: 168px; 
+      height: 44px;
+     background-color:#E76F51;
+      border-radius: 5px;
+       padding: 10px;      
+}
+
+/* feature start  */
+
+.feature-bike img{
+    width: 288px;
+    height: 243px;
+   
+}
+.feature-bike{
+    font-size: 48px;
+}
+.best-bike-collection-p{
+    color: #E76F51;
+}
+
+/* client part */
+
+.client-says img{
+    height: 149px;
+    width: 149px;
+    margin-bottom: 30px;
+}
+.client-header-color{
+    color: #0D0926;
+    font-size: 48px;
+}
+.client-header-extra-color{
+    color:#E76F51;
+} 
+
+.icon-color i{
+   color: #E77C40;
+}
+
+/* frequently use start  */
+
+.frequently-extra-color{
+    color: #E76F51;
+}
+.frequently-header{
+    color: #0D0925;
+    font-size: 48px;
+
+}
+.client-name{
+    font-size: 14px;
+    margin:15px 0px;
+}
+.client-designation{
+    font-size: 14px;
+}
+
+/* extra part  */
+
+.awesome-shop-with-confidence i{
+     font-size: 50px;
+     color: goldenrod;
+}
